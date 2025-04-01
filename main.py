@@ -87,3 +87,5 @@ if (!interactive()) {
 # PR Merge: 2025-10-20 - enhancement/merge-5573
 
 # PR Merge: 2025-10-20 - feature/merge-6090
+
+# PR Merge: 2025-10-20 - refactor/merge-4799
