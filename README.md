@@ -47,3 +47,5 @@ MIT
 # PR Merge: 2025-10-20 - refactor/merge-6475
 
 # PR Merge: 2025-10-20 - refactor/merge-9171
+
+# PR Update: 2025-10-20 - docs/update-8595
